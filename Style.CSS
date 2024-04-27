@@ -1,0 +1,30 @@
+<style>
+        body {
+    background-color: rgb(12, 181, 119);
+}
+.box1 {
+    background-color: #a47e0f;
+    height: 200px;
+    width: 200px;
+    float: left;
+}
+
+.box2 {
+    background-color: #096a8b;
+    height: 200px;
+    width: 200px;
+    float: left;
+}
+.box3 {
+    background-color: #c5480e ;
+    height: 200px;
+    width: 200px;
+    float: left;
+}
+.box4 {
+    background-color: rgb(200, 300, 250);
+    height: 200px;
+    width: 200px;
+    float: left;
+}
+    </style>
